@@ -24,15 +24,15 @@ function preload() {
         colonna: 2,
       },
       sotto: {
-        svg: loadSVG("./assets/B-1.svg"),
+        svg: loadSVG("./assets/A-1.svg"),
         angolo: -1,
       },
       centro: {
-        svg: loadSVG("./assets/B-2.svg"),
+        svg: loadSVG("./assets/A-2.svg"),
         angolo: 1,
       },
       sopra: {
-        svg: loadSVG("./assets/B-3.svg"),
+        svg: loadSVG("./assets/A-3.svg"),
         angolo: 2,
       },
     },
@@ -83,15 +83,15 @@ function preload() {
         colonna: 2,
       },
       sotto: {
-        svg: loadSVG("./assets/B-1.svg"),
+        svg: loadSVG("./assets/D-1.svg"),
         angolo: -1,
       },
       centro: {
-        svg: loadSVG("./assets/B-2.svg"),
+        svg: loadSVG("./assets/D-2.svg"),
         angolo: 1,
       },
       sopra: {
-        svg: loadSVG("./assets/B-3.svg"),
+        svg: loadSVG("./assets/D-3.svg"),
         angolo: 2,
       },
     },
